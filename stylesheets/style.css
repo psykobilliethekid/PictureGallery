@@ -1,0 +1,632 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\0000333}}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\0000340}}
+audio,
+canvas,
+video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\0000348}}
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\0000355}}
+[hidden] {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\0000369}}
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\0000382}}
+html,
+button,
+input,
+select,
+textarea {
+  font-family: sans-serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\0000388}}
+body {
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003103}}
+a:focus {
+  outline: thin dotted;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003109}}
+a:active,
+a:hover {
+  outline: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003122}}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003127}}
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003132}}
+h3 {
+  font-size: 1.17em;
+  margin: 1em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003137}}
+h4 {
+  font-size: 1em;
+  margin: 1.33em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003142}}
+h5 {
+  font-size: 0.83em;
+  margin: 1.67em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003147}}
+h6 {
+  font-size: 0.67em;
+  margin: 2.33em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003153}}
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003159}}
+b,
+strong {
+  font-weight: bold;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003163}}
+blockquote {
+  margin: 1em 40px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003168}}
+dfn {
+  font-style: italic;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003174}}
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003181}}
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003188}}
+p,
+pre {
+  margin: 1em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003196}}
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  _font-family: 'courier new', monospace;
+  font-size: 1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003203}}
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003210}}
+q {
+  quotes: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003216}}
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003222}}
+small {
+  font-size: 80%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003228}}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003235}}
+sup {
+  top: -0.5em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003239}}
+sub {
+  bottom: -0.25em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003253}}
+dl,
+menu,
+ol,
+ul {
+  margin: 1em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003257}}
+dd {
+  margin: 0 0 0 40px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003264}}
+menu,
+ol,
+ul {
+  padding: 0 0 0 40px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003270}}
+nav ul,
+nav ol {
+  list-style: none;
+  list-style-image: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003283}}
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003289}}
+svg:not(:root) {
+  overflow: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003300}}
+figure {
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003311}}
+form {
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003316}}
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003325}}
+legend {
+  border: 0;
+  padding: 0;
+  white-space: normal;
+  *margin-left: -7px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003339}}
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+  *vertical-align: middle;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003349}}
+button,
+input {
+  line-height: normal;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003358}}
+button,
+select {
+  text-transform: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003372}}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+  *overflow: visible;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003380}}
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003389}}
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+  *height: 13px;
+  *width: 13px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003399}}
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003409}}
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003415}}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003422}}
+textarea {
+  overflow: auto;
+  vertical-align: top;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_normalize\.scss}line{font-family:\00003434}}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/partials\/_page\.scss}line{font-family:\000037}}
+body, select, input, textarea {
+  color: #222222;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_helpers\.scss}line{font-family:\000037}}
+.ir {
+  background-color: transparent;
+  border: 0;
+  overflow: hidden;
+  *text-indent: -9999px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_helpers\.scss}line{font-family:\0000327}}
+.ir:before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 150%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_helpers\.scss}line{font-family:\000039}}
+.hidden {
+  display: none !important;
+  visibility: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_helpers\.scss}line{font-family:\0000311}}
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_helpers\.scss}line{font-family:\0000367}}
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_helpers\.scss}line{font-family:\0000313}}
+.invisible {
+  visibility: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_helpers\.scss}line{font-family:\0000393}}
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_helpers\.scss}line{font-family:\0000398}}
+.clearfix:after {
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_helpers\.scss}line{font-family:\00003104}}
+.clearfix {
+  *zoom: 1;
+}
+
+@media only screen and (min-width: 480px) {
+  /* Style adjustments for viewports 480px and over go here */
+}
+@media only screen and (min-width: 768px) {
+  /* Style adjustments for viewports 768px and over go here */
+}
+@media print {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000311}}
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000319}}
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000323}}
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000327}}
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000337}}
+  .ir a:after,
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+    content: "";
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000342}}
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000347}}
+  thead {
+    display: table-header-group;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000352}}
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000356}}
+  img {
+    max-width: 100% !important;
+  }
+
+  @page {
+    margin: 0.5cm;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000366}}
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dani\/Documents\/compass\.app\.windows\.v1\.27\/compass\.app\/lib\/ruby\/compass_extensions\/compass-h5bp-0\.1\.1\/stylesheets\/h5bp\/_media\.scss}line{font-family:\0000372}}
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+
+  /* Style adjustments for print go here */
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000312}}
+body {
+  background-color: #5e1706;
+  background-image: url(../images/background01.png);
+  background-repeat: no-repeat;
+  color: #c1813e;
+  font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000320}}
+#container {
+  width: 1300px;
+  height: 860px;
+  float: none;
+  clear: both;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000327}}
+header {
+  width: 485px;
+  height: 50px;
+  font-size: 36px;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 0 #000;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000335}}
+#info {
+  width: 460px;
+  height: 590px;
+  float: left;
+  z-index: 20000;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000340}}
+#info h3 {
+  text-transform: uppercase;
+  text-shadow: 3px 3px 0 #000;
+  text-align: center;
+  font-size: 24px;
+  color: #c1813e;
+  padding-top: 65px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000348}}
+#info ul {
+  list-style: none;
+  margin: 80px;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 0 #000;
+  font-size: 24px;
+  line-height: 50px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000357}}
+#info li:hover {
+  text-shadow: 5px -5px 3px #000;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000361}}
+#info a {
+  color: #c1813e;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000365}}
+#info img {
+  width: 50px;
+  height: 50px;
+  vertical-align: middle;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000370}}
+#info #twitter {
+  text-indent: 50px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000375}}
+#gallery {
+  width: 1220px;
+  height: 100px;
+  z-index: 89090;
+  clear: both;
+  background-color: rgba(193, 129, 62, 0.15);
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000383}}
+#gallery ul {
+  padding: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000386}}
+#gallery li {
+  display: inline-block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000389}}
+#gallery a img {
+  float: left;
+  width: 75px;
+  height: 75px;
+  padding: 3px;
+  border-radius: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\0000395}}
+#gallery a img:hover {
+  box-shadow: 4px 4px 10px rgba(193, 129, 62, 0.5);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\00003100}}
+#gallery a {
+  width: 200px;
+  height: 150px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\00003106}}
+#display {
+  width: 490px;
+  height: 500px;
+  margin: 0 575px;
+  border: 2px solid #5e1706;
+  padding: 25px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\00003116}}
+#display img {
+  width: 495px;
+  height: 500px;
+  border-radius: 55px / 25px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\00003122}}
+footer {
+  width: 470px;
+  height: 25px;
+  margin-top: 5px;
+  font-size: 10px;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 0 #000;
+  text-align: left;
+  float: left;
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\00003127}}
+footer a {
+  text-decoration: none;
+  color: #c1813e;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp\/www\/picture-gallery03\/sass\/style\.scss}line{font-family:\00003130}}
+footer a:hover {
+  text-decoration: underline;
+}

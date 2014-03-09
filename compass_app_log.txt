@@ -1,0 +1,373 @@
+2014-03-04 13:41:07 overwrite stylesheets/style.css 
+2014-03-04 13:44:12 identical stylesheets/style.css 
+2014-03-04 20:16:51 overwrite stylesheets/style.css 
+2014-03-04 20:21:17 identical stylesheets/style.css 
+2014-03-04 20:22:57 overwrite stylesheets/style.css 
+2014-03-04 20:23:30 overwrite stylesheets/style.css 
+2014-03-04 20:37:27 overwrite stylesheets/style.css 
+2014-03-04 20:38:09     error sass/style.scss (Line 21: Invalid CSS after "	font size:": expected pseudoclass or pseudoelement, was " 36px;")
+2014-03-04 20:38:09 overwrite stylesheets/style.css 
+2014-03-04 20:38:40 overwrite stylesheets/style.css 
+2014-03-04 20:43:12 overwrite stylesheets/style.css 
+2014-03-04 20:43:38 overwrite stylesheets/style.css 
+2014-03-04 20:43:48 overwrite stylesheets/style.css 
+2014-03-04 20:44:09 overwrite stylesheets/style.css 
+2014-03-04 20:45:45 overwrite stylesheets/style.css 
+2014-03-04 20:46:57 overwrite stylesheets/style.css 
+2014-03-04 20:47:10 overwrite stylesheets/style.css 
+2014-03-04 20:47:37 overwrite stylesheets/style.css 
+2014-03-04 20:48:08 overwrite stylesheets/style.css 
+2014-03-04 20:48:24 overwrite stylesheets/style.css 
+2014-03-04 20:50:04 overwrite stylesheets/style.css 
+2014-03-04 20:50:23 overwrite stylesheets/style.css 
+2014-03-04 20:51:12 overwrite stylesheets/style.css 
+2014-03-04 20:54:51     error sass/style.scss (Line 16: Invalid CSS after "	width:": expected pseudoclass or pseudoelement, was " 960px;")
+2014-03-04 20:54:51 overwrite stylesheets/style.css 
+2014-03-04 20:56:11     error sass/style.scss (Line 16: Invalid CSS after "	width:": expected pseudoclass or pseudoelement, was " 960px;")
+2014-03-04 20:56:11 identical stylesheets/style.css 
+2014-03-04 20:56:38     error sass/style.scss (Line 16: Invalid CSS after "	width:": expected pseudoclass or pseudoelement, was " 960px;")
+2014-03-04 20:56:38 identical stylesheets/style.css 
+2014-03-04 20:56:55     error sass/style.scss (Line 27: Invalid CSS after "...2px solid #000;": expected selector or at-rule, was "}")
+2014-03-04 20:56:55 overwrite stylesheets/style.css 
+2014-03-04 20:57:21 overwrite stylesheets/style.css 
+2014-03-04 20:58:26 overwrite stylesheets/style.css 
+2014-03-04 20:59:25 overwrite stylesheets/style.css 
+2014-03-04 20:59:41 overwrite stylesheets/style.css 
+2014-03-04 20:59:54 overwrite stylesheets/style.css 
+2014-03-04 21:02:28 overwrite stylesheets/style.css 
+2014-03-04 21:03:05 overwrite stylesheets/style.css 
+2014-03-04 21:03:37 overwrite stylesheets/style.css 
+2014-03-04 21:04:21 overwrite stylesheets/style.css 
+2014-03-04 21:05:10 identical stylesheets/style.css 
+2014-03-04 21:05:36 overwrite stylesheets/style.css 
+2014-03-04 21:06:51 overwrite stylesheets/style.css 
+2014-03-04 21:07:23 overwrite stylesheets/style.css 
+2014-03-04 21:07:56 overwrite stylesheets/style.css 
+2014-03-04 21:10:07 overwrite stylesheets/style.css 
+2014-03-04 21:10:41 overwrite stylesheets/style.css 
+2014-03-04 21:11:06 overwrite stylesheets/style.css 
+2014-03-04 21:11:28 identical stylesheets/style.css 
+2014-03-04 21:12:50 overwrite stylesheets/style.css 
+2014-03-04 21:19:23 overwrite stylesheets/style.css 
+2014-03-04 21:21:26 overwrite stylesheets/style.css 
+2014-03-04 21:21:34 identical stylesheets/style.css 
+2014-03-04 21:21:44 overwrite stylesheets/style.css 
+2014-03-04 21:22:01 overwrite stylesheets/style.css 
+2014-03-04 21:22:12 overwrite stylesheets/style.css 
+2014-03-04 21:22:17 overwrite stylesheets/style.css 
+2014-03-04 21:22:34 overwrite stylesheets/style.css 
+2014-03-04 21:22:53 overwrite stylesheets/style.css 
+2014-03-04 21:23:30 overwrite stylesheets/style.css 
+2014-03-04 21:23:48 overwrite stylesheets/style.css 
+2014-03-04 21:24:00 overwrite stylesheets/style.css 
+2014-03-04 21:24:27 overwrite stylesheets/style.css 
+2014-03-04 21:25:03 overwrite stylesheets/style.css 
+2014-03-04 21:26:58 overwrite stylesheets/style.css 
+2014-03-04 21:27:04 overwrite stylesheets/style.css 
+2014-03-04 21:27:44 overwrite stylesheets/style.css 
+2014-03-04 21:28:15 overwrite stylesheets/style.css 
+2014-03-04 21:28:40 overwrite stylesheets/style.css 
+2014-03-04 21:28:52 overwrite stylesheets/style.css 
+2014-03-04 21:29:10 overwrite stylesheets/style.css 
+2014-03-04 21:29:27 overwrite stylesheets/style.css 
+2014-03-04 21:29:42 overwrite stylesheets/style.css 
+2014-03-04 21:29:46 identical stylesheets/style.css 
+2014-03-04 21:31:23     error sass/style.scss (Line 30: Invalid CSS after "	border": expected ";", was ": 2px solid #000;")
+2014-03-04 21:31:23 overwrite stylesheets/style.css 
+2014-03-04 21:31:41 overwrite stylesheets/style.css 
+2014-03-04 21:33:14 overwrite stylesheets/style.css 
+2014-03-04 21:33:42 overwrite stylesheets/style.css 
+2014-03-04 21:33:54 overwrite stylesheets/style.css 
+2014-03-04 21:39:16 overwrite stylesheets/style.css 
+2014-03-04 21:39:22 identical stylesheets/style.css 
+2014-03-04 21:40:15 overwrite stylesheets/style.css 
+2014-03-04 21:40:42 overwrite stylesheets/style.css 
+2014-03-04 21:41:06 overwrite stylesheets/style.css 
+2014-03-04 21:41:20 overwrite stylesheets/style.css 
+2014-03-04 21:41:33 overwrite stylesheets/style.css 
+2014-03-04 21:41:42 overwrite stylesheets/style.css 
+2014-03-04 21:41:44 overwrite stylesheets/style.css 
+2014-03-04 21:41:51 overwrite stylesheets/style.css 
+2014-03-04 21:42:25 overwrite stylesheets/style.css 
+2014-03-04 21:42:46 overwrite stylesheets/style.css 
+2014-03-04 21:43:59 overwrite stylesheets/style.css 
+2014-03-04 21:44:27 overwrite stylesheets/style.css 
+2014-03-04 21:44:45 overwrite stylesheets/style.css 
+2014-03-04 21:45:19 overwrite stylesheets/style.css 
+2014-03-04 21:46:02 identical stylesheets/style.css 
+2014-03-04 21:46:37 overwrite stylesheets/style.css 
+2014-03-04 21:47:05 overwrite stylesheets/style.css 
+2014-03-04 21:47:15 overwrite stylesheets/style.css 
+2014-03-04 21:47:23 overwrite stylesheets/style.css 
+2014-03-04 21:50:01 overwrite stylesheets/style.css 
+2014-03-04 21:50:15 overwrite stylesheets/style.css 
+2014-03-04 21:50:23 overwrite stylesheets/style.css 
+2014-03-04 21:50:53 overwrite stylesheets/style.css 
+2014-03-04 21:51:26 overwrite stylesheets/style.css 
+2014-03-04 21:51:47 overwrite stylesheets/style.css 
+2014-03-04 21:52:04 overwrite stylesheets/style.css 
+2014-03-04 21:53:00 overwrite stylesheets/style.css 
+2014-03-04 21:53:07 overwrite stylesheets/style.css 
+2014-03-04 21:56:29 overwrite stylesheets/style.css 
+2014-03-04 21:56:43 overwrite stylesheets/style.css 
+2014-03-04 21:56:55 overwrite stylesheets/style.css 
+2014-03-04 21:57:33 overwrite stylesheets/style.css 
+2014-03-04 21:59:04 overwrite stylesheets/style.css 
+2014-03-04 21:59:54 overwrite stylesheets/style.css 
+2014-03-04 22:00:15 overwrite stylesheets/style.css 
+2014-03-04 22:01:11 overwrite stylesheets/style.css 
+2014-03-04 22:01:31 overwrite stylesheets/style.css 
+2014-03-04 22:01:42 identical stylesheets/style.css 
+2014-03-06 20:34:01     error sass/style.scss (Line 88: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:34:01 overwrite stylesheets/style.css 
+2014-03-06 20:34:19     error sass/style.scss (Line 88: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:34:19 overwrite stylesheets/style.css 
+2014-03-06 20:35:05     error sass/style.scss (Line 86: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:35:05 overwrite stylesheets/style.css 
+2014-03-06 20:35:23     error sass/style.scss (Line 86: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:35:23 identical stylesheets/style.css 
+2014-03-06 20:35:24     error sass/style.scss (Line 86: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:35:24 identical stylesheets/style.css 
+2014-03-06 20:35:37     error sass/style.scss (Line 86: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:35:37 overwrite stylesheets/style.css 
+2014-03-06 20:35:50 overwrite stylesheets/style.css 
+2014-03-06 20:35:52 identical stylesheets/style.css 
+2014-03-06 20:36:13     error sass/style.scss (Line 85: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:36:13 overwrite stylesheets/style.css 
+2014-03-06 20:36:36     error sass/style.scss (Line 90: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:36:36 overwrite stylesheets/style.css 
+2014-03-06 20:36:53     error sass/style.scss (Line 87: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:36:53 overwrite stylesheets/style.css 
+2014-03-06 20:37:11     error sass/style.scss (Line 84: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:37:11 overwrite stylesheets/style.css 
+2014-03-06 20:37:25     error sass/style.scss (Line 84: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:37:25 identical stylesheets/style.css 
+2014-03-06 20:37:43     error sass/style.scss (Line 84: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:37:43 identical stylesheets/style.css 
+2014-03-06 20:37:58     error sass/style.scss (Line 84: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:37:58 identical stylesheets/style.css 
+2014-03-06 20:38:40     error sass/style.scss (Line 84: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:38:40    create stylesheets/style.css 
+2014-03-06 20:38:41     error sass/style.scss (Line 84: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:38:41 overwrite stylesheets/style.css 
+2014-03-06 20:41:09     error sass/style.scss (Line 84: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:41:09 overwrite stylesheets/style.css 
+2014-03-06 20:41:29     error sass/style.scss (Line 82: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:41:29 overwrite stylesheets/style.css 
+2014-03-06 20:41:51     error sass/style.scss (Line 79: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:41:51 overwrite stylesheets/style.css 
+2014-03-06 20:42:23     error sass/style.scss (Line 79: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:42:23 identical stylesheets/style.css 
+2014-03-06 20:43:32     error sass/style.scss (Line 67: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:43:32 overwrite stylesheets/style.css 
+2014-03-06 20:43:55     error sass/style.scss (Line 80: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:43:55 overwrite stylesheets/style.css 
+2014-03-06 20:44:24     error sass/style.scss (Line 81: Invalid CSS after "}": expected "}", was "")
+2014-03-06 20:44:24 overwrite stylesheets/style.css 
+2014-03-06 20:44:41 overwrite stylesheets/style.css 
+2014-03-06 20:45:15 overwrite stylesheets/style.css 
+2014-03-06 20:45:29 overwrite stylesheets/style.css 
+2014-03-06 20:45:45 identical stylesheets/style.css 
+2014-03-06 22:13:18 overwrite stylesheets/style.css 
+2014-03-06 22:14:20 identical stylesheets/style.css 
+2014-03-06 22:16:01 overwrite stylesheets/style.css 
+2014-03-06 22:16:48 overwrite stylesheets/style.css 
+2014-03-06 22:17:34 overwrite stylesheets/style.css 
+2014-03-06 22:17:48 overwrite stylesheets/style.css 
+2014-03-06 22:18:40 overwrite stylesheets/style.css 
+2014-03-06 22:19:09 overwrite stylesheets/style.css 
+2014-03-06 22:19:25 overwrite stylesheets/style.css 
+2014-03-06 22:20:30 overwrite stylesheets/style.css 
+2014-03-06 22:21:40 overwrite stylesheets/style.css 
+2014-03-06 22:22:19 overwrite stylesheets/style.css 
+2014-03-06 22:22:52 overwrite stylesheets/style.css 
+2014-03-06 22:23:12 overwrite stylesheets/style.css 
+2014-03-06 22:25:43 overwrite stylesheets/style.css 
+2014-03-06 22:32:49 overwrite stylesheets/style.css 
+2014-03-06 22:33:48 overwrite stylesheets/style.css 
+2014-03-06 22:34:25 overwrite stylesheets/style.css 
+2014-03-06 22:34:34 overwrite stylesheets/style.css 
+2014-03-06 22:35:04 overwrite stylesheets/style.css 
+2014-03-06 22:35:23 overwrite stylesheets/style.css 
+2014-03-06 22:35:33 overwrite stylesheets/style.css 
+2014-03-07 20:40:35 overwrite stylesheets/style.css 
+2014-03-07 20:45:55 overwrite stylesheets/style.css 
+2014-03-07 21:18:15 overwrite stylesheets/style.css 
+2014-03-07 21:19:32 overwrite stylesheets/style.css 
+2014-03-07 21:20:02 overwrite stylesheets/style.css 
+2014-03-07 21:20:32 overwrite stylesheets/style.css 
+2014-03-07 21:20:39 identical stylesheets/style.css 
+2014-03-07 21:21:12 overwrite stylesheets/style.css 
+2014-03-07 21:21:27 overwrite stylesheets/style.css 
+2014-03-07 21:22:03 overwrite stylesheets/style.css 
+2014-03-07 21:22:37 overwrite stylesheets/style.css 
+2014-03-07 21:23:08 overwrite stylesheets/style.css 
+2014-03-07 21:23:37 overwrite stylesheets/style.css 
+2014-03-07 21:24:33 overwrite stylesheets/style.css 
+2014-03-07 21:26:04 overwrite stylesheets/style.css 
+2014-03-07 21:27:11 overwrite stylesheets/style.css 
+2014-03-07 21:28:08 overwrite stylesheets/style.css 
+2014-03-07 21:28:44 overwrite stylesheets/style.css 
+2014-03-07 21:28:54 overwrite stylesheets/style.css 
+2014-03-07 21:30:08     error sass/style.scss (Line 13: Invalid CSS after "	background-color:": expected pseudoclass or pseudoelement, was " #5e1706;")
+2014-03-07 21:30:08 overwrite stylesheets/style.css 
+2014-03-07 21:30:35 overwrite stylesheets/style.css 
+2014-03-07 21:31:01 overwrite stylesheets/style.css 
+2014-03-07 21:35:08 overwrite stylesheets/style.css 
+2014-03-07 21:35:39 identical stylesheets/style.css 
+2014-03-07 21:35:55 overwrite stylesheets/style.css 
+2014-03-07 21:37:03 overwrite stylesheets/style.css 
+2014-03-07 21:37:08 overwrite stylesheets/style.css 
+2014-03-07 21:37:56 overwrite stylesheets/style.css 
+2014-03-07 21:38:04 overwrite stylesheets/style.css 
+2014-03-07 21:38:27 overwrite stylesheets/style.css 
+2014-03-07 21:38:51 overwrite stylesheets/style.css 
+2014-03-07 21:39:25 overwrite stylesheets/style.css 
+2014-03-07 21:39:38 overwrite stylesheets/style.css 
+2014-03-07 21:40:03 overwrite stylesheets/style.css 
+2014-03-07 21:41:14 overwrite stylesheets/style.css 
+2014-03-07 21:41:20 overwrite stylesheets/style.css 
+2014-03-07 21:44:03 overwrite stylesheets/style.css 
+2014-03-07 21:44:39 overwrite stylesheets/style.css 
+2014-03-07 21:46:16 overwrite stylesheets/style.css 
+2014-03-07 21:46:46 overwrite stylesheets/style.css 
+2014-03-07 21:46:59 overwrite stylesheets/style.css 
+2014-03-07 21:48:00 overwrite stylesheets/style.css 
+2014-03-07 21:48:49 overwrite stylesheets/style.css 
+2014-03-07 21:49:11 overwrite stylesheets/style.css 
+2014-03-07 21:49:31 overwrite stylesheets/style.css 
+2014-03-07 21:49:44 overwrite stylesheets/style.css 
+2014-03-07 21:50:13 overwrite stylesheets/style.css 
+2014-03-07 21:52:34 overwrite stylesheets/style.css 
+2014-03-07 21:57:02 overwrite stylesheets/style.css 
+2014-03-07 22:00:14 overwrite stylesheets/style.css 
+2014-03-07 22:01:50 overwrite stylesheets/style.css 
+2014-03-07 22:05:05 overwrite stylesheets/style.css 
+2014-03-07 22:09:19 identical stylesheets/style.css 
+2014-03-07 23:19:48 overwrite stylesheets/style.css 
+2014-03-07 23:20:45 overwrite stylesheets/style.css 
+2014-03-07 23:20:51 identical stylesheets/style.css 
+2014-03-07 23:24:02     error sass/style.scss (Line 102: Invalid CSS after "	margin-top: 5px": expected ";", was ":")
+2014-03-07 23:24:02 overwrite stylesheets/style.css 
+2014-03-07 23:24:14 overwrite stylesheets/style.css 
+2014-03-07 23:25:11 overwrite stylesheets/style.css 
+2014-03-07 23:25:53 overwrite stylesheets/style.css 
+2014-03-07 23:26:10 overwrite stylesheets/style.css 
+2014-03-07 23:26:42 overwrite stylesheets/style.css 
+2014-03-07 23:26:52 overwrite stylesheets/style.css 
+2014-03-07 23:27:15 identical stylesheets/style.css 
+2014-03-07 23:32:52     error sass/style.scss (Line 127: Invalid CSS after "}": expected "}", was "")
+2014-03-07 23:32:52 overwrite stylesheets/style.css 
+2014-03-07 23:32:57     error sass/style.scss (Line 127: Invalid CSS after "}": expected "}", was "")
+2014-03-07 23:32:57 identical stylesheets/style.css 
+2014-03-07 23:33:26 overwrite stylesheets/style.css 
+2014-03-07 23:33:45 overwrite stylesheets/style.css 
+2014-03-07 23:34:03 overwrite stylesheets/style.css 
+2014-03-07 23:34:21 overwrite stylesheets/style.css 
+2014-03-07 23:34:31 overwrite stylesheets/style.css 
+2014-03-07 23:34:41 overwrite stylesheets/style.css 
+2014-03-07 23:34:51 overwrite stylesheets/style.css 
+2014-03-07 23:35:35 identical stylesheets/style.css 
+2014-03-07 23:37:19 overwrite stylesheets/style.css 
+2014-03-07 23:37:52 overwrite stylesheets/style.css 
+2014-03-07 23:38:06 overwrite stylesheets/style.css 
+2014-03-08 11:30:52 overwrite stylesheets/style.css 
+2014-03-08 11:32:29 overwrite stylesheets/style.css 
+2014-03-08 11:33:12 overwrite stylesheets/style.css 
+2014-03-08 11:33:28 overwrite stylesheets/style.css 
+2014-03-08 11:34:48 overwrite stylesheets/style.css 
+2014-03-08 11:35:06 overwrite stylesheets/style.css 
+2014-03-08 11:35:14 overwrite stylesheets/style.css 
+2014-03-08 11:36:19 overwrite stylesheets/style.css 
+2014-03-08 11:37:00 overwrite stylesheets/style.css 
+2014-03-08 11:37:15 overwrite stylesheets/style.css 
+2014-03-08 11:37:37 overwrite stylesheets/style.css 
+2014-03-08 11:37:52 overwrite stylesheets/style.css 
+2014-03-08 11:38:04 overwrite stylesheets/style.css 
+2014-03-08 11:38:12 overwrite stylesheets/style.css 
+2014-03-08 11:39:36 overwrite stylesheets/style.css 
+2014-03-08 11:39:49 overwrite stylesheets/style.css 
+2014-03-08 11:40:00 overwrite stylesheets/style.css 
+2014-03-08 11:40:11 overwrite stylesheets/style.css 
+2014-03-08 11:40:50 overwrite stylesheets/style.css 
+2014-03-08 11:41:24 overwrite stylesheets/style.css 
+2014-03-08 11:41:42 overwrite stylesheets/style.css 
+2014-03-08 11:41:53 overwrite stylesheets/style.css 
+2014-03-08 11:42:12 overwrite stylesheets/style.css 
+2014-03-08 11:42:40 overwrite stylesheets/style.css 
+2014-03-08 11:43:06 identical stylesheets/style.css 
+2014-03-08 11:43:46 overwrite stylesheets/style.css 
+2014-03-08 11:47:10 overwrite stylesheets/style.css 
+2014-03-08 11:49:11 overwrite stylesheets/style.css 
+2014-03-08 11:49:26 overwrite stylesheets/style.css 
+2014-03-08 11:50:29 overwrite stylesheets/style.css 
+2014-03-08 11:50:43 overwrite stylesheets/style.css 
+2014-03-08 11:50:54 overwrite stylesheets/style.css 
+2014-03-08 11:51:12 identical stylesheets/style.css 
+2014-03-08 11:51:19 identical stylesheets/style.css 
+2014-03-08 11:51:48 overwrite stylesheets/style.css 
+2014-03-08 11:53:04 overwrite stylesheets/style.css 
+2014-03-08 11:53:47 overwrite stylesheets/style.css 
+2014-03-08 11:54:16 overwrite stylesheets/style.css 
+2014-03-08 11:56:18 overwrite stylesheets/style.css 
+2014-03-08 11:57:34 overwrite stylesheets/style.css 
+2014-03-08 12:00:07 overwrite stylesheets/style.css 
+2014-03-08 12:01:32 identical stylesheets/style.css 
+2014-03-08 12:02:40 overwrite stylesheets/style.css 
+2014-03-08 12:05:53 overwrite stylesheets/style.css 
+2014-03-08 12:06:08 overwrite stylesheets/style.css 
+2014-03-08 12:06:31 overwrite stylesheets/style.css 
+2014-03-08 12:06:59 overwrite stylesheets/style.css 
+2014-03-08 12:08:12 overwrite stylesheets/style.css 
+2014-03-08 12:08:33 overwrite stylesheets/style.css 
+2014-03-08 12:08:47 overwrite stylesheets/style.css 
+2014-03-08 12:08:51 identical stylesheets/style.css 
+2014-03-08 12:09:05 overwrite stylesheets/style.css 
+2014-03-08 12:09:17 overwrite stylesheets/style.css 
+2014-03-08 12:09:35 overwrite stylesheets/style.css 
+2014-03-08 12:11:04 overwrite stylesheets/style.css 
+2014-03-08 12:11:41 identical stylesheets/style.css 
+2014-03-08 12:11:52 overwrite stylesheets/style.css 
+2014-03-08 12:11:55 identical stylesheets/style.css 
+2014-03-08 12:12:28 overwrite stylesheets/style.css 
+2014-03-08 12:13:34 identical stylesheets/style.css 
+2014-03-08 12:15:13 overwrite stylesheets/style.css 
+2014-03-08 12:15:30 identical stylesheets/style.css 
+2014-03-08 12:30:25 overwrite stylesheets/style.css 
+2014-03-08 12:30:37 identical stylesheets/style.css 
+2014-03-08 12:30:54 overwrite stylesheets/style.css 
+2014-03-08 12:34:14 overwrite stylesheets/style.css 
+2014-03-08 12:35:23 overwrite stylesheets/style.css 
+2014-03-08 12:35:59 overwrite stylesheets/style.css 
+2014-03-08 12:36:20 overwrite stylesheets/style.css 
+2014-03-08 12:36:38 overwrite stylesheets/style.css 
+2014-03-08 12:37:13 identical stylesheets/style.css 
+2014-03-08 12:37:45 overwrite stylesheets/style.css 
+2014-03-08 12:38:09 overwrite stylesheets/style.css 
+2014-03-08 12:39:26 overwrite stylesheets/style.css 
+2014-03-08 12:40:17 overwrite stylesheets/style.css 
+2014-03-08 12:40:38 overwrite stylesheets/style.css 
+2014-03-08 12:40:39 identical stylesheets/style.css 
+2014-03-08 12:43:03 overwrite stylesheets/style.css 
+2014-03-08 12:43:09 overwrite stylesheets/style.css 
+2014-03-08 12:44:24     error sass/style.scss (Line 121: wrong number of arguments (1 for 4) for `rgba')
+2014-03-08 12:44:24 overwrite stylesheets/style.css 
+2014-03-08 12:45:04     error sass/style.scss (Line 121: wrong number of arguments (1 for 4) for `rgba')
+2014-03-08 12:45:04 identical stylesheets/style.css 
+2014-03-08 12:45:24     error sass/style.scss (Line 121: wrong number of arguments (3 for 4) for `rgba')
+2014-03-08 12:45:24 overwrite stylesheets/style.css 
+2014-03-08 12:45:36 overwrite stylesheets/style.css 
+2014-03-08 12:46:16 overwrite stylesheets/style.css 
+2014-03-08 12:46:34 overwrite stylesheets/style.css 
+2014-03-08 12:47:14 overwrite stylesheets/style.css 
+2014-03-08 12:47:28 overwrite stylesheets/style.css 
+2014-03-08 12:48:14 overwrite stylesheets/style.css 
+2014-03-08 12:50:26     error sass/style.scss (Line 121: Invalid CSS after "...ba(0,0,0,0.75);": expected "}", was ", 10px 0px 50px...")
+2014-03-08 12:50:26 overwrite stylesheets/style.css 
+2014-03-08 12:50:37     error sass/style.scss (Line 141: Invalid CSS after "}": expected "}", was "")
+2014-03-08 12:50:37 overwrite stylesheets/style.css 
+2014-03-08 12:51:05 overwrite stylesheets/style.css 
+2014-03-08 12:51:17 overwrite stylesheets/style.css 
+2014-03-08 12:51:55 overwrite stylesheets/style.css 
+2014-03-08 12:56:08 overwrite stylesheets/style.css 
+2014-03-08 13:02:07 overwrite stylesheets/style.css 
