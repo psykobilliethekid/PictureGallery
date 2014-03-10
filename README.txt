@@ -4,8 +4,4 @@ This is currently a work in progress. I hope to have the links working and the i
 
 
 March 8th Update:
-
-The site can be viewed here: http://psykobilliethekid.github.io/PictureGallery/
 Update Was able to get the gallery set up and working on Sat MArch 8th using jQuery. Working on styling the background of the display area and fixing some lingering problems later this weekend.
-
-2nd commit
