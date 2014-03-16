@@ -8,3 +8,6 @@ Was able to get the gallery set up and working on Sat MArch 8th using jQuery. Wo
 
 March 9th Update:
 Got the gallery working. Made some style changes to the site but overall it's working. I'll post an updated link later on since I'm having trouble getting the images for the site to show up in github.
+
+March 16th Update:
+Finally got the gallery pictures to show up on the site. Ended up being the file extension case being different  - jpg vs JPG - so thankfully this was an easy, yet very annoying to find, change. Just need to make some style changes and the site will be as finished as I can make it at the moment. 
